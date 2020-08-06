@@ -9,4 +9,5 @@ Technologies:
 * JavaScript(ES6). 
 
 Libraries:
+* ScrollReveal.js;
 * Font-awesome.
